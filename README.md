@@ -1,5 +1,6 @@
 # Add Three
 
+A program that pushes three variables to the stack and adds them together in a procedure, returns the sum to the main procedure, and writes the sum to the console. 
 
 # Example Output
 
